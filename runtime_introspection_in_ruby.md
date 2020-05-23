@@ -144,4 +144,6 @@ b.instance_of?(A)
 
 This was just a glimpse of ruby's introspection capabilities, but there are always very interesting things you can learn about your objects!
 
+_This article can also be found on [Dev.to](https://dev.to/amrrbakry/runtime-introspection-in-ruby-2po1)._
+
 _This article can also be found on [Medium](https://medium.com/@amrrbakry/runtime-introspection-in-ruby-b2d718ec704f)._
