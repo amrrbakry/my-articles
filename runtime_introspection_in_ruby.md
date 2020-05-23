@@ -1,5 +1,5 @@
 # Runtime Introspection in Ruby
-
+_Updated on Aug 24, 2018_
 
 Ruby offers a variety of _methods_ that allows you to ask an object about its capabilities (which messages/methods does it respond to?), its variables and constants, and its backstory (the object's class and ancestors).
 

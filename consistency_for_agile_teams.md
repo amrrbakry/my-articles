@@ -1,4 +1,5 @@
 # Consistency for Agile Teams
+_Updated on Apr 15, 2020_
 
 As an agile team, we are working tirelessly to deliver _working software_. Periodically, we pause and reflect on what we delivered, what we didn't, and what could be improved; whether it's the process itself, the organization of the team, or the tools. We improve, restart, and repeat.
 

@@ -1,4 +1,5 @@
 # The Importance of Selective Learning
+_Updated on Jan 25, 2019_
 
 We are very lucky to live in a time in which new technologies emerge every day to help us build all sort of stuff and make our lives easier. There's always this awesome tool or language that you want to learn and use because it introduces a new way of thinking or a different paradigm.
 

@@ -1,4 +1,5 @@
 # TIL: Using Different Database Connection with ActiveRecord
+_Updated on Feb 14, 2019_
 
 I came upon an interesting problem a few days ago at work. I had some code inside an [active record transaction](https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html) that updated some record in the db, called an external service, and then updated another record based on the response from that external service. It was something like this:
 
